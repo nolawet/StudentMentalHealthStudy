@@ -1,1 +1,1 @@
-# CMSC_320_Final_Group_Project
+# Student_Mental_Health_Study
